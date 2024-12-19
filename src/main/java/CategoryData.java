@@ -1,7 +1,7 @@
 public class CategoryData {
-    private final String category;
-    private final double revenue;
-    private final int quantity;
+    private String category;
+    private double revenue;
+    private int quantity;
 
     public CategoryData(String category, double revenue, int quantity) {
         this.category = category;
@@ -19,5 +19,17 @@ public class CategoryData {
 
     public int getQuantity() {
         return quantity;
+    }
+
+    public void setCategory(String category) {
+        this.category = category;
+    }
+
+    public void setRevenue(double revenue) {
+        this.revenue = revenue;
+    }
+
+    public void setQuantity(int quantity) {
+        this.quantity = quantity;
     }
 }
