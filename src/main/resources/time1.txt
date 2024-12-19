@@ -1,0 +1,46 @@
+2024-12-19 06:51:51,890 INFO mapreduce.Job: Running job: job_1734587499837_0004
+2024-12-19 06:52:48,429 INFO mapreduce.Job: Job job_1734587499837_0004 running in uber mode : false
+2024-12-19 06:52:48,461 INFO mapreduce.Job:  map 0% reduce 0%
+2024-12-19 06:54:12,307 INFO mapreduce.Job:  map 1% reduce 0%
+2024-12-19 06:54:19,045 INFO mapreduce.Job:  map 7% reduce 0%
+2024-12-19 06:54:24,785 INFO mapreduce.Job:  map 14% reduce 0%
+2024-12-19 06:54:31,427 INFO mapreduce.Job:  map 19% reduce 0%
+2024-12-19 06:54:32,965 INFO mapreduce.Job:  map 22% reduce 0%
+2024-12-19 06:54:38,695 INFO mapreduce.Job:  map 24% reduce 0%
+2024-12-19 06:54:44,338 INFO mapreduce.Job:  map 29% reduce 0%
+2024-12-19 06:54:49,893 INFO mapreduce.Job:  map 33% reduce 0%
+2024-12-19 06:54:55,363 INFO mapreduce.Job:  map 38% reduce 0%
+2024-12-19 06:55:49,243 INFO mapreduce.Job:  map 39% reduce 0%
+2024-12-19 06:55:50,341 INFO mapreduce.Job:  map 40% reduce 0%
+2024-12-19 06:55:55,613 INFO mapreduce.Job:  map 47% reduce 0%
+2024-12-19 06:56:00,984 INFO mapreduce.Job:  map 55% reduce 0%
+2024-12-19 06:56:02,170 INFO mapreduce.Job:  map 61% reduce 0%
+2024-12-19 06:56:07,549 INFO mapreduce.Job:  map 63% reduce 0%
+2024-12-19 06:56:08,859 INFO mapreduce.Job:  map 71% reduce 0%
+2024-12-19 06:56:10,072 INFO mapreduce.Job:  map 75% reduce 0%
+2024-12-19 06:56:57,018 INFO mapreduce.Job:  map 89% reduce 0%
+2024-12-19 06:56:59,165 INFO mapreduce.Job:  map 93% reduce 0%
+2024-12-19 06:57:48,187 INFO mapreduce.Job:  map 93% reduce 29%
+2024-12-19 07:07:13,630 INFO mapreduce.Job:  map 88% reduce 29%
+2024-12-19 07:07:14,864 INFO mapreduce.Job: Task Id : attempt_1734587499837_0004_m_000006_0, Status : FAILED
+AttemptID:attempt_1734587499837_0004_m_000006_0 Timed out after 600 secs
+2024-12-19 07:07:17,538 INFO mapreduce.Job:  map 88% reduce 0%
+2024-12-19 07:08:12,877 INFO mapreduce.Job:  map 90% reduce 0%
+2024-12-19 07:08:13,980 INFO mapreduce.Job:  map 91% reduce 0%
+2024-12-19 07:08:19,629 INFO mapreduce.Job:  map 96% reduce 0%
+2024-12-19 07:08:26,578 INFO mapreduce.Job:  map 100% reduce 0%
+2024-12-19 07:09:21,088 INFO mapreduce.Job:  map 100% reduce 35%
+2024-12-19 07:09:27,246 INFO mapreduce.Job:  map 100% reduce 41%
+2024-12-19 07:09:33,349 INFO mapreduce.Job:  map 100% reduce 48%
+2024-12-19 07:09:39,602 INFO mapreduce.Job:  map 100% reduce 54%
+2024-12-19 07:09:45,735 INFO mapreduce.Job:  map 100% reduce 63%
+2024-12-19 07:09:51,898 INFO mapreduce.Job:  map 100% reduce 67%
+2024-12-19 07:09:58,047 INFO mapreduce.Job:  map 100% reduce 69%
+2024-12-19 07:10:04,222 INFO mapreduce.Job:  map 100% reduce 74%
+2024-12-19 07:10:10,418 INFO mapreduce.Job:  map 100% reduce 77%
+2024-12-19 07:10:16,571 INFO mapreduce.Job:  map 100% reduce 82%
+2024-12-19 07:10:22,737 INFO mapreduce.Job:  map 100% reduce 88%
+2024-12-19 07:10:29,046 INFO mapreduce.Job:  map 100% reduce 92%
+2024-12-19 07:10:35,282 INFO mapreduce.Job:  map 100% reduce 97%
+2024-12-19 07:10:41,469 INFO mapreduce.Job:  map 100% reduce 100%
+19 minutes
