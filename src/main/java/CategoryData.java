@@ -1,7 +1,7 @@
 public class CategoryData {
-    private String category;
-    private double revenue;
-    private int quantity;
+    private final String category;
+    private final double revenue;
+    private final int quantity;
 
     public CategoryData(String category, double revenue, int quantity) {
         this.category = category;

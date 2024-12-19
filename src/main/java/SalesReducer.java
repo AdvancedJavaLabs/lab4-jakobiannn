@@ -12,7 +12,7 @@ public class SalesReducer extends Reducer<Text, Text, Text, Text> {
     private static final DecimalFormat DECIMAL_FORMAT = new DecimalFormat("#.##");
 
     @Override
-    protected void reduce(Text key, Iterable<Text> values, Context context) throws IOException, InterruptedException {
+    protected void reduce(Text key, Iterable<Text> values, Context context) {
         double totalRevenue = 0;
         int totalQuantity = 0;
 
